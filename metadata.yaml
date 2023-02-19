@@ -1,5 +1,8 @@
 _repo: Dark-of-the-Moon_69866
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69866-h/images/cover.jpg
 creator:
   author:
     agent_name: Teasdale, Sara
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/223
     wikipedia: https://en.wikipedia.org/wiki/Sara_Teasdale
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69866#Dark-of-the-Moon
 gutenberg_issued: '2023-01-24'
 identifiers:
   gutenberg: '69866'
